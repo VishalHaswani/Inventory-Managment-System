@@ -16,7 +16,7 @@ db_host = "" #127.0.0.1
 db_port = "" #3306
 db_user = "" #root
 db_database = "" #IMS
-db_password = "" #asdfghjkl
+db_password = "" #something
 # Set Password = Vishal@Haswani@2001
 
 def infoExtraction(key):
