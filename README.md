@@ -1,5 +1,5 @@
 # Inventory-Managment-System
-
+  Please check the Project Report file project details.
 # Python Packages used
 tkinter(In-built),
 tkinter.messagebox(In-built),
